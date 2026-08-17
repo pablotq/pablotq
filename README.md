@@ -1,9 +1,15 @@
 ## Bem-vindo(a) ao perfil do PabloTQ 😁
 
  <div>
-   <a href="https://github.com/pablotq">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pablotq&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/pablotq">
+   <picture>
+    <!-- Secondary option (e.g., modern WebP format for mobile) -->
+    <source srcset="https://github-readme-stats.shion.dev/api?username=pablotq" media="(height=180em)">
+    <!-- Primary / Fallback option if the above doesn't apply -->
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pablotq&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   </picture>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablotq&layout=compact&langs_count=6&theme=tokyonight"/>
+   </a>   
 </div>
     
 <div style="display: inline_block"><br>
