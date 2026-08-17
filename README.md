@@ -4,7 +4,7 @@
   <a href="https://github.com/pablotq">
    <picture>
     <!-- Secondary option (e.g., modern WebP format for mobile) -->
-    <source srcset="https://github-readme-stats.shion.dev/api?username=pablotq" media="(height=180em)">
+    <source srcset="https://github-readme-stats.shion.dev/api?username=pablotq">
     <!-- Primary / Fallback option if the above doesn't apply -->
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pablotq&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    </picture>
